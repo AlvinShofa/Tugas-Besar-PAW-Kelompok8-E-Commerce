@@ -7,34 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Laravel 9 E-Commerce
+# Tugas Besar Laravel E-Commerce Fashion
 
-This repository is made for beginners to learn Laravel 9 MVC.
+Tugas Besar PAW Kelompok 8:
 
-## Installation
-
-Install all the dependencies using composer
-
-    composer install
-
-Copy the example env file and make the required configuration changes in the .env file
-
-    cp .env.example .env
-
-Generate a new application key
-
-    php artisan key:generate
-
-Run the database migrations and database seeding (**Set the database connection in .env before migrating**)
-
-    php artisan migrate --seed
-    
-Create a symbolic link from public/storage to storage/app/public to make files accessible from the web
-
-    php artisan storage:link
-
-Start the local development server
-
-    php artisan serve
-
-You can now access the server at http://localhost:8000
+1. Grace Magaretha Sirait
+2. Ismiati Andini
+3. Ahmad Alvin Shofa Fahim Thoroba Habib
