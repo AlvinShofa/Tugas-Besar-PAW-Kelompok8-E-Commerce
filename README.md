@@ -14,3 +14,5 @@ Tugas Besar PAW Kelompok 8:
 1. Grace Magaretha Sirait
 2. Ismiati Andini
 3. Ahmad Alvin Shofa Fahim Thoroba Habib
+
+Proyek website e-commerce fashion ini mencakup pembuatan database MySQL dengan migration, tampilan Bootstrap dan Tailwind, verifikasi login dan registrasi user, CRUD produk dan pesanan, serta verifikasi pembayaran oleh admin.
